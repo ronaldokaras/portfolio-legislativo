@@ -5,7 +5,7 @@
 **Ementa:** Institui o Programa Paraná Tech – Formação Gratuita em Programação e Tecnologia para Jovens Paranaenses.
 
 ### 📄 Download
-- [parana-tech/projeto_lei_parana_tech.pdf](parana-tech/projeto_lei_parana_tech.pdf)
+- [projeto_lei_parana_tech.pdf](https://github.com/user-attachments/files/26838660/projeto_lei_parana_tech.pdf)
 
 ### Resumo do Projeto
 Programa estadual permanente de capacitação gratuita em programação, desenvolvimento de software, inteligência artificial, cibersegurança e análise de dados.  
